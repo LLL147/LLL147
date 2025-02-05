@@ -26,8 +26,8 @@
 ---
 
 ## 🎯 关注我  
-[![Bilibili](https://img.shields.io/badge/BiliBili-%2300A1D6.svg?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/你的B站ID)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/你的频道)  
+[![Bilibili](https://img.shields.io/badge/BiliBili-%2300A1D6.svg?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/1537445527)  
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/channel/UCEkI497qfxd-sek8s4ZkF1A)  
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/你的推特)  
 
 ---

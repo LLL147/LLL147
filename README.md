@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm 鹿耀</h1>
+<h1 align="center">Hi 👋, I'm Lu Yao</h1>
 <h3 align="center">🚀 Passionate Developer | Open Source Enthusiast</h3>
+<h1 align="center">嗨 👋，我是鹿耀</h1>
+<h3 align="center">🚀 充满激情的开发者 |开源爱好者</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF1493&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I'm+a+developer!;I+love+Open+Source!;Follow+me+for+more+updates!" alt="Typing SVG" />
